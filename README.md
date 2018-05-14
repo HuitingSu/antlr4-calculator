@@ -27,7 +27,7 @@ Signed Number
 Logarithm and NaturalLogarithm  
 SIN, ASIN, COS, ACOS, TAN, ATAN  
 
-### Sample Input
+### Sample Input (t.expr)
 ```java
 a = 5
 b = 6
