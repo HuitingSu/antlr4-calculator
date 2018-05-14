@@ -26,6 +26,9 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
+/* For convenience, Grammar is rewote to direct left recursion 
+instead of recursive descent */
+
 grammar calculator;
 
 prog:   stat+ ;
