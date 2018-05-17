@@ -1,5 +1,9 @@
 # antlr4-calculator
 A calculator using antlr4. For convenience, Grammar calculator.g4 is rewote to direct left recursion instead of recursive descent.
+Please see the Calc-Maven-jline3 directory for the Maven project with jline3. Run the command to see result:
+```java
+mvn compile exec:java
+```
 
 ### Set Path and Alias
 Change the directory in the following command and run.
