@@ -1,7 +1,0 @@
-*.iml
-.idea
-
-src/main/generated-sources
-
-target
-
